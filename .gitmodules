@@ -3,3 +3,19 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "httpcache"]
+	path = httpcache
+	url = https://github.com/nealrichardson/httpcache
+	shallow = true
+[submodule "httptest"]
+	path = httptest
+	url = https://github.com/nealrichardson/httptest
+	shallow = true
+[submodule "pivotaltrackR"]
+	path = pivotaltrackR
+	url = https://github.com/nealrichardson/pivotaltrackr
+	shallow = true
+[submodule "skeletor"]
+	path = skeletor
+	url = https://github.com/nealrichardson/skeletor
+	shallow = true
