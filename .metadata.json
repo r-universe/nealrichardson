@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "httptest2",
+    "oncran": true
+  },
+  {
     "package": "pivotaltrackR",
     "oncran": true
   },

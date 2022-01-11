@@ -13,6 +13,11 @@
 	url = https://github.com/nealrichardson/httptest
 	shallow = true
 	registered = true
+[submodule "httptest2"]
+	path = httptest2
+	url = https://github.com/nealrichardson/httptest2
+	shallow = true
+	registered = true
 [submodule "pivotaltrackR"]
 	path = pivotaltrackR
 	url = https://github.com/nealrichardson/pivotaltrackr
