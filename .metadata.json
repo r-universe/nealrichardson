@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "skeletor",
+    "oncran": true
+  },
+  {
     "package": "httptest",
     "oncran": true
   },
@@ -13,10 +17,6 @@
   },
   {
     "package": "pivotaltrackR",
-    "oncran": true
-  },
-  {
-    "package": "skeletor",
     "oncran": true
   }
 ]
