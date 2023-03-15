@@ -1,5 +1,9 @@
 [
   {
+    "package": "distro",
+    "oncran": true
+  },
+  {
     "package": "httpcache",
     "oncran": true
   },
