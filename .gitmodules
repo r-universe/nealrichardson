@@ -8,11 +8,6 @@
 	url = https://github.com/nealrichardson/httpcache
 	shallow = true
 	registered = true
-[submodule "skeletor"]
-	path = skeletor
-	url = https://github.com/nealrichardson/skeletor
-	shallow = true
-	registered = true
 [submodule "httptest"]
 	path = httptest
 	url = https://github.com/nealrichardson/httptest
@@ -26,5 +21,10 @@
 [submodule "pivotaltrackR"]
 	path = pivotaltrackR
 	url = https://github.com/nealrichardson/pivotaltrackr
+	shallow = true
+	registered = true
+[submodule "skeletor"]
+	path = skeletor
+	url = https://github.com/nealrichardson/skeletor
 	shallow = true
 	registered = true
