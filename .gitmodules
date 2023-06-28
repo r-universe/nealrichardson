@@ -1,35 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "distro"]
 	path = distro
 	url = https://github.com/nealrichardson/distro
-	shallow = true
-	registered = true
 [submodule "httpcache"]
 	path = httpcache
 	url = https://github.com/nealrichardson/httpcache
-	shallow = true
-	registered = true
 [submodule "httptest"]
 	path = httptest
 	url = https://github.com/nealrichardson/httptest
-	shallow = true
-	registered = true
 [submodule "httptest2"]
 	path = httptest2
 	url = https://github.com/nealrichardson/httptest2
-	shallow = true
-	registered = true
 [submodule "pivotaltrackR"]
 	path = pivotaltrackR
 	url = https://github.com/nealrichardson/pivotaltrackr
-	shallow = true
-	registered = true
 [submodule "skeletor"]
 	path = skeletor
 	url = https://github.com/nealrichardson/skeletor
-	shallow = true
-	registered = true
